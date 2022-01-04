@@ -10,6 +10,7 @@ There is two usual reasons
 included files are :
 requirements.txt (requirements for running the game with the save),
 *.sav (the save file),
+HOW-TO-USE.txt ( how to run the game with the save)
 The game itself
 
 
