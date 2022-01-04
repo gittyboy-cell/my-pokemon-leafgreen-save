@@ -1,1 +1,14 @@
-y
+THIS TUTORIAL IS ONLY FOR RETROARCH
+
+(if you are not using retroarch,just know where the save directory is,and you have the game.then you can run it,save it and change the savefile)
+
+1. get retroarch @ www.retroarch.com
+2. install retroarch
+3. install a gba core
+4. run the game
+5. save from the game
+6. go to settings > directories and search for save directory
+7. go to the directory 
+8. swap the savefile
+9. done
+
