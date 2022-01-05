@@ -8,8 +8,8 @@ There is two usual reasons
 3. it is not possible in the current state
 
 included files are :
-requirements.txt (requirements for running the game with the save),
-*.sav (the save file),
+requirements.txt (requirements for running the game with the save,
+the save file,
 HOW-TO-USE.txt ( how to run the game with the save)
 The game itself
 
