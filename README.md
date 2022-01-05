@@ -1,7 +1,7 @@
 # my-pokemon-leafgreen-save
 
 IMPORTANT =
-SAVE FILES ARE IN "RELEASES" PAGE OR [HERE](https://github.com/gittyboy-cell/my-pokemon-leafgreen-save/releases)
+SAVE FILES ARE IN [HERE](https://github.com/gittyboy-cell/my-pokemon-leafgreen-save/releases/tag/main)
 
 this is my progress on pokemon leafgreen
 This is usually updated every night.
